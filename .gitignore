@@ -1,0 +1,30 @@
+# Mac
+*.DS_Store
+
+# Node
+*.log
+node_modules/*
+.env
+
+# Test
+*test.html
+
+# Text
+*.csv
+*.xml
+*.pdf
+
+# Compressed files
+*.gz
+*.tar
+*.zip
+
+# People with shitty IDEs
+*.idea
+*.iml
+sendgrid.env
+*.npmrc
+.npmrc
+
+# Custom
+temp_resources
